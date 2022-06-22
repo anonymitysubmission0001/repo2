@@ -3,6 +3,124 @@ layout: default
 title: Supplementary Material
 ---
 
+# Spotted Coarticulated Lexical Signs
+
+Below we show lexical signs spotted by our model.
+
+**husband**
+<video width="32%" controls>
+  <source src="videos/husband-1.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/husband-2.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/husband-3.webm" type="video/webm">
+</video>
+
+
+**before**
+<video width="32%" controls>
+  <source src="videos/before-1.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/before-2.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/before-4.webm" type="video/webm">
+</video>
+**university**
+<video width="32%" controls>
+  <source src="videos/university-2.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/university-4.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/university-0.webm" type="video/webm">
+</video>
+
+**daily**
+<video width="32%" controls>
+  <source src="videos/daily-2.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/daily-3.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/daily-4.webm" type="video/webm">
+</video>
+
+**face**
+<video width="32%" controls>
+  <source src="videos/face-1.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/face-2.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/face-4.webm" type="video/webm">
+</video>
+
+# Spotted Fingerspelling Signs
+Below are fingerspelling signs detected and recognized by our model.
+
+**FEMA**
+<video width="32%" controls>
+  <source src="videos/fema-0.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/fema-2.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/fema-3.webm" type="video/webm">
+</video>
+
+**WFD**
+<video width="32%" controls>
+  <source src="videos/wfd-1.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/wfd-4.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/wfd-0.webm" type="video/webm">
+</video>
+
+**BAY**
+<video width="32%" controls>
+  <source src="videos/bay-2.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/bay-3.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/bay-4.webm" type="video/webm">
+</video>
+
+**BIDEN**
+<video width="32%" controls>
+  <source src="videos/biden-2.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/biden-3.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/biden-4.webm" type="video/webm">
+</video>
+
+**TRUMP**
+<video width="32%" controls>
+  <source src="videos/trump-1.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/trump-0.webm" type="video/webm">
+</video>
+<video width="32%" controls>
+  <source src="videos/trump-3.webm" type="video/webm">
+</video>
+
+
 # Mouthing examples
 
 Below we show some examples where the mouthing is used during signing. The words which are mouthed in the English translation are highlighted.  
