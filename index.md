@@ -151,13 +151,13 @@ Below we show some examples where the mouthing is used during signing. The words
   </tr>
 
   <tr>
-    <td>this should explain the reason <span style="color:red">why</span> why along with supporting information it <span style="color:red">should be</span> selected as a top priority<br /><video width="240" height="240" controls>
+    <td>This should explain the reason <span style="color:red">why</span> along with supporting information it <span style="color:red">should be</span> selected as a top priority<br /><video width="240" height="240" controls>
   <source src="webm/EDlQOtl4fW8-31.webm" type="video/webm">
 </video></td>
     <td>I have <span style="color:red">one for you</span><br /> <br /> <br /> <br /> <br /><video width="240" height="240" controls>
   <source src="webm/7UgIx_7-oyA-3.webm" type="video/webm">
 </video></td>
-    <td>we <span style="color:red">will be happy </span> to respond and listen to your concerns<br /> <br /> <br/><br /><video width="240" height="240" controls>
+    <td>We <span style="color:red">will be happy </span> to respond and listen to your concerns<br /> <br /> <br/><br /><video width="240" height="240" controls>
   <source src="webm/gcdbWV03Xk-47.webm" type="video/webm">
 </video></td>
   </tr>
