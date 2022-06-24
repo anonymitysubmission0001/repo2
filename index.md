@@ -7,7 +7,7 @@ title: Supplementary Material
 
 Below we show **randomly selected** lexical signs spotted by our model. Our main observations are as follows.
 * The target clip often includes a partial (or whole) segment from adjacent signs. For instance, the third clip of UNIVERSITY has an extra sign of GALLAUDET. This is mainly due to the fixed window size we use for lexical sign search.
-* False positives occur especially when two signs are of similar appearance. The second clip of BEFORE, which has similar a body posture to BEFORE, is a pointing sign indicating that one thing is happening prior to something else.
+* False positives occur especially when two signs are of similar appearance. The second clip of BEFORE, which has a similar body posture to BEFORE, is a pointing sign indicating that one thing is happening prior to something else.
 
 **HUSBAND**
 <video width="32%" controls>
