@@ -3,11 +3,13 @@ layout: default
 title: Supplementary Material
 ---
 
-# Spotted Coarticulated Lexical Signs
+# Spotted Lexical Signs
 
-Below we show lexical signs spotted by our model.
+Below we show **randomly selected** lexical signs spotted by our model. Our main observations are as follows.
+* The target clip often includes a partial (or whole) segment from adjacent signs. For instance, the third clip of UNIVERSITY has an extra sign of GALLAUDET. This is mainly due to the fixed window size we use for lexical sign search.
+* False positives occur especially when two signs are of similar appearance. The second clip of BEFORE, which has similar body posture to BEFORE, is a pointing sign indicating that one thing is happening prior to something else.
 
-**husband**
+**HUSBAND**
 <video width="32%" controls>
   <source src="videos/husband-1.webm" type="video/webm">
 </video>
@@ -19,7 +21,7 @@ Below we show lexical signs spotted by our model.
 </video>
 
 
-**before**
+**BEFORE**
 <video width="32%" controls>
   <source src="videos/before-1.webm" type="video/webm">
 </video>
@@ -29,7 +31,7 @@ Below we show lexical signs spotted by our model.
 <video width="32%" controls>
   <source src="videos/before-4.webm" type="video/webm">
 </video>
-**university**
+**UNIVERSITY**
 <video width="32%" controls>
   <source src="videos/university-2.webm" type="video/webm">
 </video>
@@ -40,7 +42,7 @@ Below we show lexical signs spotted by our model.
   <source src="videos/university-0.webm" type="video/webm">
 </video>
 
-**daily**
+**DAILY**
 <video width="32%" controls>
   <source src="videos/daily-2.webm" type="video/webm">
 </video>
@@ -51,7 +53,7 @@ Below we show lexical signs spotted by our model.
   <source src="videos/daily-4.webm" type="video/webm">
 </video>
 
-**face**
+**FACE**
 <video width="32%" controls>
   <source src="videos/face-1.webm" type="video/webm">
 </video>
@@ -62,8 +64,10 @@ Below we show lexical signs spotted by our model.
   <source src="videos/face-4.webm" type="video/webm">
 </video>
 
-# Spotted Fingerspelling Signs
-Below are fingerspelling signs detected and recognized by our model.
+# Spotted Fingerspelling Sequences
+Below are **randomly selected** fingerspelling sequences detected and recognized by our model. Our main observations are as follows.
+* Fingerspelling sequences are spotted more accurately than lexical signs, which is because we used a sophisticated fingerspelling detector.  
+* There are some instances with inaccurate clipping. For example, "N" is not included in the first clip of BIDEN.
 
 **FEMA**
 <video width="32%" controls>
@@ -123,7 +127,7 @@ Below are fingerspelling signs detected and recognized by our model.
 
 # Mouthing examples
 
-Below we show some examples where the mouthing is used during signing. The words which are mouthed in the English translation are highlighted.  
+Below we show some examples where mouthing is used during signing. The words which are mouthed in the English translation are highlighted.  
 
 * * *
 <table>
@@ -134,7 +138,7 @@ Below we show some examples where the mouthing is used during signing. The words
     <td><span style="color:red">I hope</span> your christmas holiday break went well<br/><br /><video width="240" height="240" controls>
   <source src="webm/GhW-Vo0-w8k-4.webm" type="video/webm">
 </video></td>
-    <td><span style="color:red">The shooting</span> was on february 23 in brunswick<br/><br /><video width="240" height="240" controls>
+    <td>The <span style="color:red">shooting</span> was on february 23 in brunswick<br/><br /><video width="240" height="240" controls>
   <source src="webm/NBpYolVo5WQ-49.webm" type="video/webm">
 </video></td>
   </tr>
@@ -151,7 +155,7 @@ Below we show some examples where the mouthing is used during signing. The words
   </tr>
 
   <tr>
-    <td>This should explain the reason <span style="color:red">why</span> along with supporting information it <span style="color:red">should be</span> selected as a top priority<br /><video width="240" height="240" controls>
+    <td>This should explain the reason why along with supporting information it <span style="color:red">should be</span> selected as a top priority<br /><video width="240" height="240" controls>
   <source src="webm/EDlQOtl4fW8-31.webm" type="video/webm">
 </video></td>
     <td>I have <span style="color:red">one for you</span><br /> <br /> <br /> <br /> <br /><video width="240" height="240" controls>
